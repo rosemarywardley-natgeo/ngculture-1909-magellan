@@ -3,21 +3,21 @@
 
 Slug: ngculture-1909-magellan
 
-Graphics_editor: 
+Graphics_editor: Rosemary Wardley 
 
-Headline: 
+Headline: Magellan: Around the World 
 
-Public_URL: 
+Public_URL: https://www.nationalgeographic.com/culture/2019/09/magellan-first-sail-around-world-think-again/ 
 
-AEM_URL: 
+AEM_URL: https://aem-auth.ngeo.com/cf#/content/culture/en_US/2019/09/magellan-first-sail-around-world-think-again.html 
 
-Pub_date: 
+Pub_date: 2019-09-19 
 (YYY-MM-DD)
 
-Map: 
+Map: Y 
 (Y/N)
 
-Graphic: 
+Graphic: N 
 (Y/N)
 
 
